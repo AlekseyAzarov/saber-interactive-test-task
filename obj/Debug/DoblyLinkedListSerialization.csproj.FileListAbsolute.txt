@@ -1,0 +1,6 @@
+D:\C# Projects\DoblyLinkedSerializationDeserialization\bin\Debug\DoblyLinkedSerializationDeserialization.dll
+D:\C# Projects\DoblyLinkedSerializationDeserialization\bin\Debug\DoblyLinkedSerializationDeserialization.pdb
+D:\C# Projects\DoblyLinkedSerializationDeserialization\obj\Debug\DoblyLinkedListSerialization.csproj.AssemblyReference.cache
+D:\C# Projects\DoblyLinkedSerializationDeserialization\obj\Debug\DoblyLinkedListSerialization.csproj.CoreCompileInputs.cache
+D:\C# Projects\DoblyLinkedSerializationDeserialization\obj\Debug\DoblyLinkedSerializationDeserialization.dll
+D:\C# Projects\DoblyLinkedSerializationDeserialization\obj\Debug\DoblyLinkedSerializationDeserialization.pdb

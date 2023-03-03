@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedListSerialization", "DoublyLinkedListSerialization.csproj", "{48ED85A6-C78F-4756-AF4B-7834D6584BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedSerializationDeserializationTest", "DoblyLinkedSerializationDeserializationTest\DoublyLinkedSerializationDeserializationTest.csproj", "{6DE0E2F3-1B20-49C3-AEA0-EA3AFEF17AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48ED85A6-C78F-4756-AF4B-7834D6584BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ED85A6-C78F-4756-AF4B-7834D6584BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ED85A6-C78F-4756-AF4B-7834D6584BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ED85A6-C78F-4756-AF4B-7834D6584BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE0E2F3-1B20-49C3-AEA0-EA3AFEF17AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE0E2F3-1B20-49C3-AEA0-EA3AFEF17AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE0E2F3-1B20-49C3-AEA0-EA3AFEF17AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE0E2F3-1B20-49C3-AEA0-EA3AFEF17AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DCC53B0-BC37-44E2-9131-087A04D98710}
+	EndGlobalSection
+EndGlobal
